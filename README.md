@@ -1,6 +1,7 @@
-### Hi there 👋
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aannea&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff">
 
 <!--
+### Hi there 👋
 **aannea/aannea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
