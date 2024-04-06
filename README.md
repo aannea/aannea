@@ -1,6 +1,9 @@
-![AanNea's GitHub stats](https://github-readme-stats.vercel.app/api?username=aannea&show_icons=true&theme=radical)
+![AanNea's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aannea&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aannea&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aannea&layout=compact&theme=algolia)
+
+## MY Skills
+[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,figma,blender,html,css,php,laravel,js,wordpress,mysql,firebase,dart,flutter,java,c,cpp,py,tensorflow,git,linux,blender,unreal,unity,arduino,azure,aws,gcp&theme=dark)](https://skillicons.dev)
 
 <!--
 ### Hi there 👋
