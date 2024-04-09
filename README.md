@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aannea&layout=compact&theme=algolia)
 
 ## MY Skills
-[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,figma,blender,html,css,php,laravel,js,wordpress,mysql,firebase,dart,flutter,java,c,cpp,py,tensorflow,git,linux,blender,unreal,unity,arduino,azure,aws,gcp&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,figma,html,css,php,laravel,js,wordpress,mysql,firebase,dart,flutter,java,c,cpp,py,tensorflow,git,linux,blender,unreal,unity,arduino,azure,aws,gcp&theme=dark)](https://skillicons.dev)
 
 <!--
 ### Hi there 👋
